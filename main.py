@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext, CallbackQueryHandler
 
 # 🔐 ВСТАНОВИ СВІЙ ТОКЕН
-TOKEN = 'YOUR_BOT_TOKEN_HERE'
+TOKEN = '7996564047:AAFJzRYg8ICsUVzOe6oYOZt3v2EVG7UIC_Y'
 
 # 🔧 ID адміністраторів (в числовому форматі)
 ADMIN_CHAT_IDS = [424594836, 855759233]
